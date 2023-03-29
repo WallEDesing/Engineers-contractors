@@ -1,13 +1,9 @@
-import React from "react";
-import "./App.css";
-import Creativity from "./components/Creativity/Creativity";
-import Bulidings from "./components/Buildings/Buildings";
+import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <Creativity />
-      {/* <Bulidings /> */}
+     <h1>engineers</h1>
     </div>
   );
 }

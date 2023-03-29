@@ -1,0 +1,25 @@
+.Contact-continer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background: rgb(240,255,61);
+}
+.Contact-content{
+    width: 50%;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.Contact-content button{
+    width: 200px;
+    height: 60px;
+    border-radius: 30px ;
+    border: transparent;
+    font-size: 25px;
+    color: rgb(240,255,61);
+    background: rgb(41,45,51);
+}
