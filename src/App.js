@@ -1,3 +1,8 @@
+import React from 'react'
+import Home from '../src/components/Home/Home';
+import Buildings from './components/Buildings/Buildings';
+import Contact from './components/Contact Us/Contact';
+import More from './components/More/More';
 import './App.css';
 import Buildings from './components/Buildings/Buildings';
 import Contact from './components/Contact Us/Contact';
@@ -11,8 +16,9 @@ function App() {
   return (
     <div className="App">
      <Home/>
-     <Contact/>
      <Buildings/>
+     <Contact/>
+     <More/>
      <Creativity/> 
      <Projects/>
      <Legacy/>
