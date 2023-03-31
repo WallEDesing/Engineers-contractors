@@ -4,6 +4,7 @@ import { IoDiamondOutline } from "react-icons/io5";
 import { TbSpeakerphone } from "react-icons/tb";
 import { TfiUser } from "react-icons/tfi";
 import './Buildings.css';
+
 const Buildings = () => {
     return (
         <div className='Buildings-continer'>

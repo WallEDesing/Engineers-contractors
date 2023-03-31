@@ -55,6 +55,11 @@
    font-size: small;
 }
 
+.legacy-btn:hover{
+    background: #000;
+    color: #fff;
+}
+
 .legacy-img-container{
  width: 40%;
  height: 110%;

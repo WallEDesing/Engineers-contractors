@@ -41,11 +41,12 @@
 .More-content-right-side-button{
     align-self: flex-start;
     margin-left: 45px;
+    margin-top: 10px;
     background: transparent;
     border-radius: 40px;
     width: 100px;
     height: 40px;
-
+    
 }
 .More-content-right-side-button:hover{
     background: #000;
