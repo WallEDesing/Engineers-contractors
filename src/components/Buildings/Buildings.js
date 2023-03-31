@@ -12,38 +12,46 @@ const Buildings = () => {
             </div>
             <div className='Buildings-sec'>
                 <div className='sec-one'>
-                    <i className='Buildings-icon-one'><TbBulb/></i>
+                    <i className='Buildings-icon-one'><TbBulb /></i>
                     <h2>STRATEGY</h2>
                     <p>
-                        Duis aute irure dolor in reprehenderit in voluptate velit
-                        esse cillum dolore eu fugiat nulla pariatur
+                        <em>
+                            Duis aute irure dolor in reprehenderit in voluptate velit
+                            esse cillum dolore eu fugiat nulla pariatur
+                        </em>
                     </p>
                     <a href="#">MORE</a>
                 </div>
                 <div className='sec-two'>
-                    <i className='Buildings-icon-two'><TbSpeakerphone/></i>
+                    <i className='Buildings-icon-two'><TbSpeakerphone /></i>
                     <h2>RESULTS</h2>
                     <p>
-                        Duis aute irure dolor in reprehenderit in voluptate velit
-                        esse cillum dolore eu fugiat nulla pariatur
+                        <em>
+                            Duis aute irure dolor in reprehenderit in voluptate velit
+                            esse cillum dolore eu fugiat nulla pariatur
+                        </em>
                     </p>
                     <a href="#">MORE</a>
                 </div>
                 <div className='sec-three'>
-                    <i className='Buildings-icon-three'><IoDiamondOutline/></i>
+                    <i className='Buildings-icon-three'><IoDiamondOutline /></i>
                     <h2>EXPERTISE</h2>
                     <p>
-                        Duis aute irure dolor in reprehenderit in voluptate velit
-                        esse cillum dolore eu fugiat nulla pariatur
+                        <em>
+                            Duis aute irure dolor in reprehenderit in voluptate velit
+                            esse cillum dolore eu fugiat nulla pariatur
+                        </em>
                     </p>
                     <a href="#">MORE</a>
                 </div>
                 <div className='sec-four'>
-                    <i className='Buildings-icon-four'><TfiUser/></i>
+                    <i className='Buildings-icon-four'><TfiUser /></i>
                     <h2>SUPPORT</h2>
                     <p>
-                        Duis aute irure dolor in reprehenderit in voluptate velit
-                        esse cillum dolore eu fugiat nulla pariatur
+                        <em>
+                            Duis aute irure dolor in reprehenderit in voluptate velit
+                            esse cillum dolore eu fugiat nulla pariatur
+                        </em>
                     </p>
                     <a href="#">MORE</a>
                 </div>

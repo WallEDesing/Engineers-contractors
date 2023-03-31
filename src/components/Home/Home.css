@@ -25,30 +25,34 @@
     width: 100%;
     height: 50%;
     color: #fff;
-    font-size: 55px;
+    font-size: 70px;
 }
 .Home-content p{
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 65%;
+    width: 89%;
     height: 50%;
     color: #fff;
-    font-size: 20px;
+    font-size: 30px;
 }
 .Home-button{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
-    width: 50%;
+    width: 57%;
     height: 100px;
 }
 .Home-button button{
-    width: 120px;
+    width: 150px;
     height: 50px;
     border-radius: 30px ;
     border: transparent;
     font-size: 15px;
     background: rgb(240,255,61);
+}
+.Home-button button:hover{
+    background: #fff;
+    color: #000;
 }
