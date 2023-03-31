@@ -16,8 +16,9 @@
     text-align: left;
     width: 50%;
     height: 300px;
-    font-size: 28px;
-    margin-bottom:7%;
+    font-size: 30px;
+    font-family: 'overlock';
+    margin-bottom:3%;
     margin-left: 250px;
 }
 .More-content-right-side{
@@ -32,9 +33,10 @@
     align-self: center;
     font-size: 20px;
     text-align: left;
+    font-weight: 400;
     margin-right: 250px;
     width: 50%;
-    height: 300px;
+    height: 275px;
 }
 .More-content-right-side-button{
     align-self: flex-start;
