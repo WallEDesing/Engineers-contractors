@@ -1,0 +1,90 @@
+.projects-container{
+    height: 100vh;
+}
+
+.projects-box-container{
+    background-color:rgb(217,217,217) ;
+    height: 175%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 6%;
+    
+}
+
+.projects-img-container{
+   width: 27%;
+   height: 45%;
+   background-image: url(../../assets//sorasak-KxCJXXGsv9I-unsplash.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   
+}
+
+.projects-img-content-container{
+    width: 80%;
+    background-color: rgb(240,255,61);
+    padding: 15px;
+    margin-top: -20%;
+}
+
+.projects-img-content-container p{
+font-weight: bold;
+text-align: justify;
+}
+
+.projects-img-content-container h4{
+font-weight: bolder;
+text-align: justify;
+}
+
+.projects-img-container-2{
+    width: 27%;
+    height: 45%;
+    background-image: url(../../assets/duncan-kidd-5ZTXJPiEHy0-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 1;
+}
+
+.projects-img-content-container-2{
+    width: 150%;
+   background-color: rgb(41,45,51);
+   padding: 15px;
+   margin-top: -20%;
+   margin-left: 30%; 
+}
+
+.projects-img-content-container-2 p{
+   color: #ffff;
+   text-align: justify;
+   font-weight: bold;
+}
+
+.projects-img-content-container-2 h4{
+    color: #ffff;
+    text-align: justify;
+    font-weight: bolder;
+}
+
+.projects-content-container{
+    width: 27%;
+    height: 45%;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    padding: 1%;
+    background-color: rgb(242,242,242);
+  
+}
+
+.projects-content-container p{
+    text-align: justify;
+    font-weight: bold;
+}
+
+.projects-content-container h5{
+    text-align: justify;
+    margin-bottom: 10px;
+    font-weight: bold;
+}

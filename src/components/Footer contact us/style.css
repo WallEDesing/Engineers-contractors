@@ -1,0 +1,102 @@
+.contactUs-container {
+    height: 100vh;
+    background-image: url(../../assets/rafael-de-nadai-b0eg-PYGICQ-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.contactUs-form-container {
+   width: 30%;
+   height: 80%;
+   background-color: #FFFFFF;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+   flex-wrap: wrap;
+   padding-top: 1%;
+   padding-bottom: 1%;
+}
+
+.contactUs-input-container{
+    height: 70%;
+    padding-left: 5%;
+    padding-right: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.contactUs-input-container div{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.contactUs-form-container input{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    background-color:#FFFFFF;
+    width: 100%;
+}
+
+.contactUs-form-container h6{
+    font-weight: bold;
+}
+
+.contactUs-form-container textarea{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    background-color:#FFFFFF;
+    width: 100%;
+}
+
+.contactUs-checkbox-container{
+    width: 100%;
+    display: flex;
+    height: 5%;
+    padding-left: 5%;
+}
+.contactUs-checkbox-container input{
+    width: 5%;
+}
+
+.contactUs-button{
+    height: 10%;
+    width: 85%;
+    display: flex;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    font-weight: bolder;
+    border: none;
+    background-color: rgb(240,255,61);
+    border-radius: 25px;
+}
+
+.contactUs-info {
+    width: 30%;
+    height: 80%;
+    padding-right: 15%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.contactUs-info h5{
+    color: rgb(240,255,61);
+    font-weight: bolder;
+    text-shadow: 0.4px 0.4px rgb(41,45,51);
+}
+
+.contactUs-info p{
+    font-weight: bold;
+    margin: 0;
+}
