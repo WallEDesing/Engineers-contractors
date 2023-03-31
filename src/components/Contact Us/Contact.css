@@ -1,18 +1,24 @@
 .Contact-continer{
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     width: 100%;
-    height: 100vh;
+    height: 150vh;
     background: rgb(240,255,61);
 }
 .Contact-content{
-    width: 50%;
+    width: 100%;
     height: 250px;
+    margin-top: 35%;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     align-items: center;
+    text-align: center;
+}
+.Contact-content h1{
+    width: 100%;
 }
 .Contact-content button{
     width: 200px;
@@ -23,3 +29,51 @@
     color: rgb(240,255,61);
     background: rgb(41,45,51);
 }
+.Contact-photo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 50%;
+    height: 600px;
+    margin-top:250px ;
+}
+.Contact-photo-one{
+    align-self: center;
+    width: 369px;
+    height: 461px;
+    background: url(../../assets/Contact.jpg);
+    margin-left: 40px;
+    background-size: cover;
+}
+.Contact-photo-two{
+    align-self: flex-start;
+    width: 384px;
+    height: 543px;
+    background: url(../../assets/Contact2.jpg);
+    margin-right: 40px;
+    background-size: cover;
+}
+.Contact-photo-three{
+    position: relative;
+    bottom: 40%;
+    left: 25%;
+    width: 366px;
+    height: 488px;
+    background: url(../../assets/Contact3.jpg);
+    background-size: cover;
+    z-index: 1;
+}
+.backgrund-Contact-photo-three{
+    position: relative;
+    bottom: 30%;
+    right: 20%;
+    width: 371px;
+    height: 371px;
+    background: rgb(240,255,61);
+}
+
+
+    
+
+
+    
