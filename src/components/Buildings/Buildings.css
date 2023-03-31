@@ -10,6 +10,8 @@
 .Buildings-content{
     width: 70%;
     height: 40%;
+    font-family: 'overlock';
+    font-size: 27px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,10 +20,15 @@
 .Buildings-sec{
     display: flex;
     justify-content: space-between;
-    width: 70%;
+    width: 75%;
     height: 520px;
 }
 .Buildings-sec p,a{
+    font-family: 'Open Sans',sans-serif;
+    word-spacing: 2px;
+    font-weight: 100;
+    font-size: 1rem;
+    line-height: 1.6;
     margin-bottom: 15px;
     width: 80%;
 
@@ -43,6 +50,9 @@
 }
 .sec-one h2{
     width: 200px;
+    font-family: Montserrat, sans-serif !important;
+    font-size: 20px;
+    font-weight: 300;
 }
 .Buildings-icon-one{
     width: 100px;
@@ -66,6 +76,9 @@
 }
 .sec-two h2{
     width: 200px;
+    font-family: Montserrat, sans-serif !important;
+    font-size: 20px;
+    font-weight: 300;
 }
 .Buildings-icon-two{
     width: 100px;
@@ -90,6 +103,9 @@
 }
 .sec-three h2{
     width: 200px;
+    font-family: Montserrat, sans-serif !important;
+    font-size: 20px;
+    font-weight: 300;
 }
 .Buildings-icon-three{
     width: 100px;
@@ -113,6 +129,9 @@
 }
 .sec-four h2{
     width: 200px;
+    font-family: Montserrat, sans-serif !important;
+    font-size: 20px;
+    font-weight: 300;
 }
 .Buildings-icon-four{
     width: 100px;

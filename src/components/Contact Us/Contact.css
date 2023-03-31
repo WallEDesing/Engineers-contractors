@@ -4,14 +4,14 @@
     justify-content: center;
     align-items: center;
     width: 100%;
-    height: 150vh;
+    height: 180vh;
     background: rgb(240,255,61);
 }
 .Contact-content{
-    
-    width: 100%;
+    width: 60%;
     height: 250px;
     margin-top: 35%;
+    margin-bottom: 5%;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -20,10 +20,15 @@
 }
 .Contact-content h1{
     width: 100%;
+    font-family: 'overlock';
+    font-size: 50px;
+    font-weight: 200;
 }
 .Contact-content button{
     width: 200px;
     height: 60px;
+    margin-top: 60px;
+    margin-bottom: 5px;
     border-radius: 30px ;
     border: transparent;
     font-size: 25px;
