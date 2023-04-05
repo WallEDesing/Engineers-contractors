@@ -9,6 +9,7 @@ import Legacy from './components/Legacy of Success/Legacy';
 import ContactUs from './components/Footer contact us/ContactUs';
 import './App.css';
 
+//The first page of project
 function App() {
   return (
     <div className="App">
