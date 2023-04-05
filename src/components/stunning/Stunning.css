@@ -1,0 +1,85 @@
+.build-container {
+  width: 100%;
+  height: 100vh;
+}
+
+.build-content {
+  background: url(../../assets/buildings2.jpg);
+  display: flex;
+  /* justify-content: center;
+  align-content: center;  */
+  flex-wrap: wrap;
+  background-size: cover;
+  width: 100%;
+  
+}
+
+.fs-1 {
+  color: white;
+  font-weight: bolder;
+  margin-top: 5%;
+  width: 100%;
+}
+
+.text-start {
+  color: white;
+  font-weight: bolder;
+  /* margin-left: 8%; */
+}
+
+.icon-manage {
+  width: 50px;
+  height: 50px;
+  margin-top: 15px;
+  background-color: transparent;
+  border: none;
+}
+
+.fs-2 {
+  text-align: left;
+}
+
+.icon-base {
+  background-color: rgb(240, 255, 61);
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-top: 15px;
+}
+
+.container {
+  margin-bottom: 0;
+  width: 100%;
+}
+
+.text-title {
+  margin-left: 6%;
+  width: 100%;
+}
+
+.col-md-4 {
+  color: white;
+}
+
+.row {
+  width: 100%;
+}
+
+.text-row {
+  color: white;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.col {
+  color: white;
+}
+
+.col-md-9 {
+  margin-bottom: 50px;
+}
+
+.text-manage {
+  margin-bottom: 8%;
+}
