@@ -1,0 +1,48 @@
+/* .container {
+    z-index: -1;
+
+} */
+
+.blob-container {
+  background-color: #f0ff3d;
+  width: 100%;
+  height: auto;
+  z-index: -1;
+}
+
+.img-thumbnail {
+}
+
+.image-new {
+  background-color: transparent !important;
+  border: none !important;
+  border-radius: 0 !important;
+  padding: 0 !important;
+  height: 100% !important;
+}
+
+svg {
+  z-index: 0;
+}
+
+/* .blob-svg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.col-items {
+  /* z-index: 1;
+    position: absolute; */
+}
+
+.col-md-4 {
+  /* color: red;
+  border: black solid; */
+}
+
+/* .h-100 {
+    border: black solid;
+} */
+
+
